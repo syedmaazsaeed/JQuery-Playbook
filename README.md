@@ -6,15 +6,15 @@ This project utilizes jQuery v3.7.0, a fast, small, and feature-rich JavaScript 
 
 <h1>Features🌏</h1>
 
-DOM Manipulation: Traverse and manipulate the DOM with simple and intuitive syntax.
+☁️ DOM Manipulation: Traverse and manipulate the DOM with simple and intuitive syntax.
 
-Event Handling: Easily manage events across browsers with jQuery's built-in methods.
+♨ Event Handling: Easily manage events across browsers with jQuery's built-in methods.
 
-AJAX: Perform asynchronous HTTP requests and handle the responses efficiently.
+🔗 AJAX: Perform asynchronous HTTP requests and handle the responses efficiently.
 
-Animation: Create smooth animations with minimal effort.
+🌏 Animation: Create smooth animations with minimal effort.
 
-Plugins: Extend the functionality of jQuery through a variety of plugins.
+🔑 Plugins: Extend the functionality of jQuery through a variety of plugins.
 
 <h1>Requirements🔗 </h1>
 
