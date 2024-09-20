@@ -17,6 +17,7 @@ Animation: Create smooth animations with minimal effort.
 Plugins: Extend the functionality of jQuery through a variety of plugins.
 
 <h1>Requirements🔗 </h1>
+
 ☁︎ A modern web browser (Chrome, Firefox, Safari, Edge, etc.)
 
 🔑 jQuery v3.7.0 or higher
